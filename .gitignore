@@ -1,0 +1,6 @@
+__pycache__/
+realtime_chat_system.egg-info/
+.venv/
+build/
+dist/
+.env
